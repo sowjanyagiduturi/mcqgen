@@ -2,8 +2,4 @@ openai
 langchain
 streamlit
 python-dotenv
-pyPDF2
-langchain-community
-
-
--e .
+PyPDF2
